@@ -27,7 +27,7 @@ Each step guides the user through a simple and motivating workout experience.
 
 ## 🌐 Live Demo
 
-[View the prototype here](https://outstanding-violet-lvy-draft.caffeine.xyz)
+[View the prototype here](https://outstanding-violet-lvy-draft.caffeine.xyz/)
 
 ## 📌 Goal
 
